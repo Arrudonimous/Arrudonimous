@@ -1,6 +1,6 @@
 Olá, me chamo Diego!
 -  💻Cursando Desenvolvimento de Sistemas pelo 3º Ano do ensino médio.
--  📖Aprendendo JavaScript com foco em NodeJs (Api rests)
+-  📖Aprendendo JavaScript com foco em NodeJs
 -  🎧Buscando conhecimentos gerais sobre programação.
 -  📫Contate-me pelo email: diegoarrudacontato@gmail.com
 -  😄Pronomes: Ele/dele.
