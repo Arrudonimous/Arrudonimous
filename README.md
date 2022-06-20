@@ -12,7 +12,7 @@ Olá, me chamo Diego!
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Node" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-  <img align="center" alt="Diego-Ts" height="55" width="65" src="devicon-typescript-plain colored" >
+  <img align="center" alt="Diego-Ts" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
   <img align="center" alt="Diego-Js" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-React" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
   <img align="center" alt="Diego-MySql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
