@@ -12,13 +12,10 @@ Olá, me chamo Diego!
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Node" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+  <img align="center" alt="Diego-React" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Diego-Ts" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
   <img align="center" alt="Diego-Js" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Diego-React" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" > -->
   <img align="center" alt="Diego-MySql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<!--   <img align="center" alt="Diego-HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!--   <img align="center" alt="Diego-CSS" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> -->
-<img align="center" alt="Diego-React" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
 </div>
   
