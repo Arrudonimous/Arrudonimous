@@ -8,7 +8,7 @@ Olá, me chamo Diego!
 <div align="start">
   <a href="https://github.com/Arrudonimous">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arrudonimous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous&theme=algolia"/>
+  <img height="170em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Node" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
