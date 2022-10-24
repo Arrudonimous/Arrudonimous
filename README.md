@@ -7,7 +7,7 @@ Olá, me chamo Diego!
 
 <div align="start">
   <a href="https://github.com/Arrudonimous">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arrudonimous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arrudonimous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=algolia"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous"/>
 </div>
 <div style="display: inline_block"><br>
