@@ -15,8 +15,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous&theme=algolia"/>
 </div>
   
-<div style="width="400em" align="center"> 
+<!-- <div style="width="400em" align="center"> 
   
   ![Snake animation](https://github.com/arrudonimous/arrudonimous/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> -->
