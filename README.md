@@ -1,4 +1,7 @@
-Helo, i'm Diego!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Diego+Arruda;I'm+a+systems+development+technician;)](https://git.io/typing-svg)
+
+
 -  💻Systems development technician.
 -  📖Learning JavaScript and TypeScript for FullStack Development.
 -  🎧Always lookin for improve my skills.
