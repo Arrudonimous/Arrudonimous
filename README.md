@@ -19,5 +19,7 @@ Helo, i'm Diego!
 </div> -->
   ##
 <div> 
+  
   ![Snake animation](https://github.com/arrudonimous/arrudonimous/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
