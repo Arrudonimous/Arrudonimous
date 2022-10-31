@@ -1,8 +1,8 @@
 Helo, i'm Diego!
 -  💻Systems development technician.
 -  📖Learning JavaScript and TypeScript for FullStack Development.
--  🎧Buscando conhecimentos gerais sobre programação.
--  📫Contate-me pelo email: diegoarrudacontato@gmail.com
+-  🎧Always lookin for improve my skills.
+-  📫Contact me by my e-mail: diegoarrudacontato@gmail.com
 
 
 <div align="center">
