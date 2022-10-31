@@ -1,6 +1,6 @@
 Helo, i'm Diego!
--  💻Cursando Desenvolvimento de Sistemas pelo 3º Ano do ensino médio.
--  📖Aprendendo JavaScript e TypeScript para desenvolvimento FullStack
+-  💻Systems development technician.
+-  📖Learning JavaScript and TypeScript for FullStack Development.
 -  🎧Buscando conhecimentos gerais sobre programação.
 -  📫Contate-me pelo email: diegoarrudacontato@gmail.com
 
@@ -10,7 +10,6 @@ Helo, i'm Diego!
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous&theme=algolia"/>
 </div>
   
-  
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Node" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
   <img align="center" alt="Diego-React" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -18,11 +17,7 @@ Helo, i'm Diego!
   <img align="center" alt="Diego-Js" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-MySql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div> -->
-  
   ##
- 
 <div> 
-  
   ![Snake animation](https://github.com/arrudonimous/arrudonimous/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
