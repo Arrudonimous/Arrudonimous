@@ -5,7 +5,7 @@ Olá, me chamo Diego!
 -  📫Contate-me pelo email: diegoarrudacontato@gmail.com
 -  😄Pronomes: Ele/dele.
 
-<div align="start">
+<div align="center">
   <a href="https://github.com/Arrudonimous">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arrudonimous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous&theme=algolia"/>
