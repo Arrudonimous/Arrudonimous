@@ -18,7 +18,7 @@ Helo, i'm Diego!
   <img align="center" alt="Diego-MySql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div> -->
   ##
-<div> 
+<div style="width="300em" align="center"> 
   
   ![Snake animation](https://github.com/arrudonimous/arrudonimous/blob/output/github-contribution-grid-snake.svg)
   
