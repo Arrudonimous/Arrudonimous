@@ -1,7 +1,7 @@
 -  💻Systems development technician.
 -  📖Learning JavaScript and TypeScript for FullStack Development.
 -  🎧always looking to improve my skills.
--  📫Contact me by my e-mail: arrudadiego45@gmail.com
+-  📫Contact me by my e-mail: diegoarrudacontato@gmail.com
 
 ##
 
