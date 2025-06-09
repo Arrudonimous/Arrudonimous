@@ -43,8 +43,8 @@
 
 ### 🌍 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- [Portfolio](https://seuportfolio.com)  
+- [LinkedIn](https://www.linkedin.com/in/diego-arruda-9586791bb)  
+- [Portfolio](https://diegoarruda.vercel.app)  
 - [GitHub](https://github.com/Arrudonimous)
 
 ---
