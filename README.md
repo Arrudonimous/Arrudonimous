@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Diego Arruda</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Diego+Arruda;I'm+a+Front-End+Developer;Passionate+about+technology+and+clean+code;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Diego+Arruda;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
 ### 💼 About Me
 
-- 💻 **Front-End Developer** with experience in building web and mobile applications.  
-- 🎓 **Computer Science student** at Universidade Paulista (UNIP).  
-- 👨‍🎓 Graduated as a **Systems Development Technician** from ETEC.  
-- 🌱 Currently studying **Angular** and deepening knowledge in **TypeScript**.  
-- 🧠 Experienced with **React.js**, **Next.js**, **Node.js**, and **RPA with Puppeteer**.  
-- 🚀 Passionate about performance, UI/UX, and solving real-world problems with code.  
+- 💻 **Front-End Developer** building web and mobile products, currently at **Looplex**.
+- 🧠 Daily work with **React**, **Next.js**, **TypeScript**, and **Node.js**.
+- 🌱 Expanding into **Angular** and deepening backend/full-stack skills.
+- 🎓 **Computer Science** student at Universidade Paulista (UNIP); Systems Development Technician (ETEC).
+- 🚀 Focused on performance, UI/UX, and shipping real products end to end.
 - 📫 Reach me at: **diegoarrudacontato@gmail.com**
 
 ---
@@ -24,28 +23,24 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-0D1117?style=for-the-badge&logo=puppeteer&logoColor=01EADF)
 
 ---
 
-### 📊 GitHub Stats
+### 🔭 Currently
 
-<div align="center">
-  <a href="https://github.com/Arrudonimous">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arrudonimous&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudonimous&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </a>
-</div>
+- Working as a Front-End Developer at **Looplex**
+- Building [Plano A](https://github.com/Arrudonimous/plano-a), a personal life-planning PWA (Next.js + Supabase)
+- Sharpening TypeScript and Angular
 
 ---
 
 ### 🌍 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/diego-arruda-9586791bb)  
-- [Portfolio](https://diegoarruda.vercel.app)  
-- [GitHub](https://github.com/Arrudonimous)
+- [LinkedIn](https://www.linkedin.com/in/diego-arruda-9586791bb)
+- [Portfolio](https://diegoarruda.vercel.app)
 
 ---
-
